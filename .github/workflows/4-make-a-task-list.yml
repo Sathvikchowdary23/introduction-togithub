@@ -54,3 +54,6 @@ jobs:
           from_step: 4
           to_step: 5
           branch_name: start-markdown
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
