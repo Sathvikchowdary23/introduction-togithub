@@ -1,8 +1,5 @@
 name: Step 3, Add a code example
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+
 # This step triggers after a commit on the branch `start-markdown`
 # This step sets STEP to 4
 # This step closes <details id=3> and opens <details id=4>
@@ -57,3 +54,7 @@ jobs:
           from_step: 3
           to_step: 4
           branch_name: start-markdown
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
