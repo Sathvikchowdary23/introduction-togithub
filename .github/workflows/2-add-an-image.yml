@@ -54,3 +54,4 @@ jobs:
           from_step: 2
           to_step: 3
           branch_name: start-markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
