@@ -54,3 +54,6 @@ jobs:
           from_step: 1
           to_step: 2
           branch_name: start-markdown
+# This is an <h1> header, which is the largest
+## This is an <h2> header
+###### This is an <h6> header, which is the smallest
